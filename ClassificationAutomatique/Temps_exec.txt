@@ -1,0 +1,6 @@
+TEMPS D'EXECUTION GLOBAL :               498 ms
+    chargement des depeches :           104 ms
+    creation des categories   :         7 ms
+    generation lexique :                176 ms
+    initiation lexique :                89 ms
+    ecriture dans le fichier resultat : 122 ms
